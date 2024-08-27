@@ -2,5 +2,5 @@
 
 ## Stable Builds
 
-* 2024-07-26 -- 1.0.4
+* 2024-08-27 -- 1.0.2
   * Initial version
